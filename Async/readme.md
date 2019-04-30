@@ -17,3 +17,9 @@ NVM allows you to use multiple versions of Node on same machine
 "Pretier" VS Code extension, pretifies the code, run command format, formats JS, .md, html
 
 Command + Shift P opens a command pallet in VSCode
+
+
+Sync Vs Async
+- Sync is easier to read and predict
+- Async difficult to read and predict
+- Async is better for performance
