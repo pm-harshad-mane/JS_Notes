@@ -53,7 +53,10 @@ Async Patterns
     - setImmediate
     - process.nextTick
   - always pass error as a first argument in Node
-  - bla
+  - Callback hell
+    - nested callbacks
+    - Promises solve callback hells
+  - Try-catch does not work with async code
 - Promises
   - not so old
   - widely used
