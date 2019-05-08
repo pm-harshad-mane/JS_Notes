@@ -47,10 +47,13 @@ Async Patterns
 - Callbacks
   - old
   - widely used 
-  - setTimeout 
-  - setInterval
-  - setImmediate
-  - process.nextTick
+  - examples
+    - setTimeout 
+    - setInterval
+    - setImmediate
+    - process.nextTick
+  - always pass error as a first argument in Node
+  - bla
 - Promises
   - not so old
   - widely used
