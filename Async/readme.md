@@ -45,18 +45,18 @@ Even Driven programming
 
 Async Patterns
 - Callbacks
--- old
--- widely used 
--- setTimeout 
--- setInterval
--- setImmediate
--- process.nextTick
+  - old
+  - widely used 
+  - setTimeout 
+  - setInterval
+  - setImmediate
+  - process.nextTick
 - Promises
--- not so old
--- widely used
+  - not so old
+  - widely used
 - Async/Await
--- very new
+  - very new
 - Generators
--- old
--- not much used
+  - old
+  - not much used
 
